@@ -1,0 +1,14 @@
+COMMENT: PR mode generating the same sequence of deployments.
+MODE: DL
+NUM_GENERALS: 1
+NUM_PLANETS: 1
+0 JEDI G0 P0 F110 #1
+0 JEDI G0 P0 F90 #1
+0 JEDI G0 P0 F100 #1
+1 SITH G0 P0 F1 #1
+1 SITH G0 P0 F10 #1
+1 SITH G0 P0 F50 #1
+2 JEDI G0 P0 F99 #1
+
+
+
